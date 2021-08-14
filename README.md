@@ -3,7 +3,7 @@
 -  🎓  Graduate of COMSATS University Islamabad
 -  💻  Cross Platform App Developer
 -  🌱  I’m currently learning Data Science
--  🔭  I’m currently working on project AlShaafi AI & ML
+-  🔭  Great experience in flutter development
 -  ☕️  Video Games Lover
 -  🇵🇰  Gujrat, Punjab, Pakistan
 -  📱  (+92) 34 7302 189 0
