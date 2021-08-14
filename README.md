@@ -1,5 +1,5 @@
--  👋  Hi, I’m Zain
--  😄  Pronouns me as /ue-saw-ma/
+-  👋  Hi, I’m Zain Ul Islam
+-  😄  You can call me zain
 -  🎓  Graduate of COMSATS University Islamabad
 -  💻  Cross Platform App Developer
 -  🌱  I’m currently learning Data Science
